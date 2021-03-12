@@ -1,7 +1,7 @@
 {
-  "name": "secureConfig",
-  "version": "0.0.0",
-  "description": "AWS Encryption library to protect the configuration's sensible data ",
+  "name": "protect-config",
+  "version": "0.0.1",
+  "description": "AES-GCM Encryption library to protect the configuration's sensible data ",
   "homepage": "",
   "author": {
     "name": "Dinesh Vadivel",
@@ -14,7 +14,7 @@
   "keywords": [
     ""
   ],
-  "repository": "/secureConfig",
+  "repository": "/protect-config",
   "license": "Apache-2.0",
   "dependencies": {
     "aws-sdk": "^2.665.0",
