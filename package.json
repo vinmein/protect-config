@@ -19,6 +19,8 @@
   "dependencies": {
     "aws-sdk": "^2.665.0",
     "bluebird": "^3.7.2",
+    "buffer": "^4.9.2",
+    "crypto": "^1.0.1",
     "dotenv": "^8.2.0",
     "fs": "0.0.1-security",
     "lodash": "^4.17.15",
