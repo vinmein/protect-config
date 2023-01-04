@@ -1,29 +1,29 @@
 {
-  "name": "protect-config",
-  "version": "0.0.1",
-  "description": "AES-GCM Encryption library to protect the configuration's sensible data ",
-  "homepage": "",
-  "author": {
-    "name": "Dinesh Vadivel",
-    "email": "dinesh.drad@gmail.com"
-  },
-  "files": [
-    "lib"
-  ],
-  "main": "lib/index.js",
-  "keywords": [
-    ""
-  ],
-  "repository": "/protect-config",
-  "license": "Apache-2.0",
-  "dependencies": {
-    "aws-sdk": "^2.665.0",
-    "bluebird": "^3.7.2",
-    "buffer": "^4.9.2",
-    "crypto": "^1.0.1",
-    "dotenv": "^8.2.0",
-    "fs": "0.0.1-security",
-    "lodash": "^4.17.15",
-    "path": "^0.12.7"
-  }
+	"name": "protect-config",
+	"version": "0.0.2",
+	"description": "AES-GCM Encryption library to protect the configuration's sensible data ",
+	"homepage": "",
+	"author": {
+		"name": "Dinesh Vadivel",
+		"email": "dinesh.drad@gmail.com"
+	},
+	"files": [
+		"lib"
+	],
+	"main": "lib/index.js",
+	"keywords": [
+		""
+	],
+	"repository": "/protect-config",
+	"license": "Apache-2.0",
+	"dependencies": {
+		"aws-sdk": "^2.665.0",
+		"bluebird": "^3.7.2",
+		"buffer": "^4.9.2",
+		"crypto": "^1.0.1",
+		"dotenv": "^8.2.0",
+		"fs": "0.0.1-security",
+		"lodash": "^4.17.15",
+		"path": "^0.12.7"
+	}
 }
